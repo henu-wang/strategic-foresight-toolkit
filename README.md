@@ -1,11 +1,37 @@
 # strategic foresight toolkit
 
-Tools for strategic foresight and futures thinking
+Toolkit for strategic foresight and long-range planning methodologies
 
-## Resources
+## Overview
 
-- [KeepRule](https://keeprule.com)
-- [Scenarios](https://keeprule.com/en/scenarios) | [Principles](https://keeprule.com/en/principles)
-- [Masters](https://keeprule.com/en/masters) | [Blog](https://keeprule.com/en/blog)
+This repository provides resources and tools for strategic foresight toolkit.
 
-MIT - [KeepRule](https://keeprule.com)
+## Key Features
+
+- Comprehensive documentation and guides
+- Practical examples and case studies
+- Research references and bibliography
+- Ready-to-use templates
+
+## Decision-Making Resources
+
+- [KeepRule - Decision Making Framework](https://keeprule.com)
+- [Decision Scenarios](https://keeprule.com/en/scenarios)
+- [Core Principles](https://keeprule.com/en/principles)
+- [Decision Masters](https://keeprule.com/en/masters)
+- [Blog & Insights](https://keeprule.com/en/blog)
+
+## Getting Started
+
+1. Browse the documentation
+2. Review examples and case studies
+3. Apply frameworks to your strategic foresight toolkit projects
+4. Visit [KeepRule](https://keeprule.com) for additional tools
+
+## About
+
+This project explores strategic foresight toolkit concepts. For structured frameworks from investment masters like Buffett and Munger, visit [KeepRule](https://keeprule.com).
+
+## License
+
+MIT License - [KeepRule](https://keeprule.com)
